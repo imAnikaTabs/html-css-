@@ -1,0 +1,16 @@
+h1{
+    color:blueviolet;
+    background-color: yellowgreen;
+    font-size: 20px;
+    text-decoration: none;
+    text-align:center;
+}
+p{
+    color:rgb(12, 6, 60);
+    text-align: right;
+    line-height: 30px;
+    column-count: 3;
+}
+li{
+    list-style-type: square;
+}
